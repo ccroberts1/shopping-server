@@ -16,7 +16,6 @@ In the future, I'd like to add front-end functionality to this to make it a full
 - [Usage](#usage)
 - [License](#license)
 - [How to Contribute](#contributing)
-- [Tests](#tests)
 
 ## Installation
 
